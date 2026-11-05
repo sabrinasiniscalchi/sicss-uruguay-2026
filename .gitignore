@@ -49,3 +49,7 @@ slides/entropia-lite/*
 slides/rag-agentes/*
 !slides/rag-agentes/index.html
 !slides/rag-agentes/rag-agentes.pdf
+
+# Class transcripts (may include participants): local only.
+transcripciones_clases/
+.DS_Store
