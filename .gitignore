@@ -53,3 +53,6 @@ slides/rag-agentes/*
 # Class transcripts (may include participants): local only.
 transcripciones_clases/
 .DS_Store
+
+# FamilySearch images of marriage records (personal research material): local only.
+partidas/
